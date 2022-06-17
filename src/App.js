@@ -7,7 +7,7 @@ function App() {
       <header className="꿈은 이루어진다">
             <img src={gangaji} alt="gangaji tag"/>
         <p>
-            Hello world ^^
+            Hello world o.o
         </p>
       </header>
     </div>
