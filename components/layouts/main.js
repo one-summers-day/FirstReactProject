@@ -8,6 +8,7 @@ const Main = ({children, router}) =>  {
                         <meta name="viewport" content = "width=device-width, initial-scale = 1" />
                         <title> James Song - Homepage</title>
                   </Head>
+                  
                   <Container maxWidth="container.md" pt = {14}>
                       {children}  
                   </Container>
